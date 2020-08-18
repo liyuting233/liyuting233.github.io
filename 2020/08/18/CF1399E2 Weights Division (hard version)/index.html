@@ -21,7 +21,7 @@
 <p>考虑到<strong>Ci&lt;=2</strong>，我们开三个优先队列，一个存所有<strong>Ci</strong>的情况，一个开<strong>Ci=1</strong>的，一个开<strong>Ci=2</strong>的。按照 <strong>Vis×(Wi-Wi/2)×1.0÷Ci</strong>排。</p>
 <p>当<strong>Ci=1</strong>的优先队列的队首可以直接完成要求，就选它后<strong>break</strong>。当<strong>Ci=2</strong>的优先队列的队首可以完成要求就选它，然后检查前面<strong>Ci=1</strong>的选过的元素中有没有可以放弃的。</p>
 <p>如果不能直接完成要求，我们就直接找<strong>Ci</strong>所有情况的队首。</p>
-<p>时间复杂度<strong>O(nlogn)**，比之前题解都少了一个</strong>log**！！！！！！！</p>
+<p>时间复杂度<strong>O(nlogn)</strong> ，比之前题解都少了一个<strong>log</strong>！！！！！！！</p>
 <p>（鬼知道为什么我还比他们跑的慢/kk</p>
 <p>AC情况：<a target="_blank" rel="noopener" href="https://www.luogu.com.cn/record/37201605">https://www.luogu.com.cn/record/37201605</a></p>
 <p>代码如下：</p>
