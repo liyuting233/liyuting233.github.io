@@ -2,30 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://liyuting233.github.io/2021/02/03/NOIP2020/</loc>
+    <loc>http://liyuting233.github.io/2020/08/17/About-Me/</loc>
     
     <lastmod>2021-02-03</lastmod>
     
   </url>
   
   <url>
-    <loc>http://liyuting233.github.io/2020/08/18/CF1399E2%20Weights%20Division%20(hard%20version)/</loc>
+    <loc>http://liyuting233.github.io/2021/02/03/CSP2020/</loc>
     
-    <lastmod>2020-08-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://liyuting233.github.io/2020/08/17/About-Me/</loc>
-    
-    <lastmod>2020-08-17</lastmod>
+    <lastmod>2021-02-03</lastmod>
     
   </url>
   
   <url>
-    <loc>http://liyuting233.github.io/2020/08/17/P2604%20[ZJOI2010]%E7%BD%91%E7%BB%9C%E6%89%A9%E5%AE%B9/</loc>
+    <loc>http://liyuting233.github.io/2021/02/03/NOIP2020/</loc>
     
-    <lastmod>2020-08-17</lastmod>
+    <lastmod>2021-02-03</lastmod>
     
   </url>
   
@@ -68,20 +61,6 @@
   
   <url>
     <loc>http://liyuting233.github.io/tags/%E6%9D%82/</loc>
-    <lastmod>2021-02-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://liyuting233.github.io/tags/%E7%BD%91%E7%BB%9C%E6%B5%81/</loc>
-    <lastmod>2021-02-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://liyuting233.github.io/tags/%E8%B4%AA%E5%BF%83/</loc>
     <lastmod>2021-02-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
